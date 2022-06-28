@@ -1,4 +1,4 @@
-# spaceship_titanic_kaggle
+# Spaceship Titanic Kaggle Competiotion
 
 My first Kaggle copletition submission with score 0.79167 - not bad :)
 
