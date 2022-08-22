@@ -1,4 +1,4 @@
-# Spaceship Titanic Kaggle Competiotion
+# Spaceship Titanic Kaggle Competition
 
 My first Kaggle competition submission with score 0.79167 - not bad :)
 
